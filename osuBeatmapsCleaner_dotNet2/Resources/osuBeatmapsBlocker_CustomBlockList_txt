@@ -1,0 +1,36 @@
+﻿//首先说明，因使用这个软件造成的一切后果由使用者承担，与软件作者没有任何关系。您使用这个软件则视为您同意这个条件。
+//这单行是注释
+//自定义屏蔽文件支持相对路径，相对于单个歌曲目录下的路径，例如 sb\sideLight.png，用\表示目录分隔符。
+//可以使用*作为通配符，例如 default-*.png，意味着开头为"default-"结尾为".png"的文件都会被处理
+//注意：决不能把*放在单独一行或文件名开头(例如"*.png")或文件名结尾(例如"slider.*")
+//这单行是注释
+//自定义屏蔽文件支持相对路径，相对于单个歌曲目录下的路径，例如 sb\sideLight.png，用\表示目录分隔符。
+cursor.png
+cursortrail.png
+default*.png
+score*.png
+slider*.png
+hit*.png
+lighting.png
+approachcircle.png
+spinner*.png
+reversearrow.png
+comboburst*.png
+play-warningarrow.png
+play-skip.png
+pause-back.png
+pause-continue.png
+pause-retry.png
+section-fail.png
+section-pass.png
+fail-background.png
+followpoint*.png
+count1.png
+count2.png
+count3.png
+go.png
+star2.png
+sliderpoint10.png
+sliderpoint30.png
+sliderscorepoint.png
+ranking*.png
