@@ -5,6 +5,8 @@ Block video,SB,background and custom you want.<br/>
 This application release without any license, if you want to release or similar, save my name in application, Thanks.<br/>
 <br/>
 ### The application.
+Current version: 1.0.1.9<br/>
+Special thanks: Shadow Power<br/>
 Build with VisualStudio2012, but you can edit with VistualStudio2010, just edit .sln file with text editor(like Notepad++), and edit it you know.<br/>
 The main language is Chinese-Simplified, so you can translate it and release with my name.<br/>
 ### Dear [peppy](http://osu.ppy.sh/u/2)
