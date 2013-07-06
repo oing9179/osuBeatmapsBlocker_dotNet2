@@ -1,9 +1,9 @@
 osuBeatmapsBlocker_dotNet2
 ==========================
-
 Block video,SB,background and custom you want.<br/>
 This application release without any license, if you want to release or similar, save my name in application, Thanks.<br/>
 <br/>
+中文用户看不懂英语没关系，网页右侧有个 "Download ZIP" 按钮，点一下等一会儿就可以下载整个项目，然后去找bin文件夹下的主程序就行了，主程序单文件绿色，但会释放一个配置文件，你运行一下就知晓啦~<br/>
 ### The application.
 Current version: 1.0.1.9<br/>
 Special thanks: Shadow Power<br/>
