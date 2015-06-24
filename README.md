@@ -1,10 +1,12 @@
 osuBeatmapsBlocker_dotNet2
 ==========================
+THIS PROJECT IS NO-LONGER UP-TO-DATE.
+
 Block video,SB,background and custom you want.<br/>
 This application release without any license, if you want to release or similar, save my name in application, Thanks.<br/>
 <br/>
-ÖĞÎÄÓÃ»§¿´²»¶®Ó¢ÓïÃ»¹ØÏµ£¬ÍøÒ³ÓÒ²àÓĞ¸ö "Download ZIP" °´Å¥£¬µãÒ»ÏÂµÈÒ»»á¶ù¾Í¿ÉÒÔÏÂÔØÕû¸öÏîÄ¿£¬ÕÒ²»µ½¾Íµã[Õâ¸ö](https://github.com/oing9179/osuBeatmapsBlocker_dotNet2/archive/master.zip)£¬Ğ§¹ûÒ»Ñù¡£È»ºóÖ±½ÓÕÒbinÎÄ¼ş¼ĞÏÂµÄÖ÷³ÌĞò£¬Ëæ±ã½âÑ¹Ëõµ½ÄÄ¶ùÔËĞĞ¶¼¿É¡£<br/>
-Ö÷³ÌĞò»áÊÍ·ÅÒ»¸ö.txtÎÄ¼şÓÃÀ´ÅäÖÃÆÁ±ÎÎÄ¼şÁĞ±í£¬ÀïÃæÓĞÏêÏ¸µÄ×¢ÊÍ£¬¿ÉÒÔÊÖ¶¯ĞŞ¸ÄÅ¶~<br/>
+ä¸­æ–‡ç”¨æˆ·çœ‹ä¸æ‡‚è‹±è¯­æ²¡å…³ç³»ï¼Œç½‘é¡µå³ä¾§æœ‰ä¸ª "Download ZIP" æŒ‰é’®ï¼Œç‚¹ä¸€ä¸‹ç­‰ä¸€ä¼šå„¿å°±å¯ä»¥ä¸‹è½½æ•´ä¸ªé¡¹ç›®ï¼Œæ‰¾ä¸åˆ°å°±ç‚¹[è¿™ä¸ª](https://github.com/oing9179/osuBeatmapsBlocker_dotNet2/archive/master.zip)ï¼Œæ•ˆæœä¸€æ ·ã€‚ç„¶åç›´æ¥æ‰¾binæ–‡ä»¶å¤¹ä¸‹çš„ä¸»ç¨‹åºï¼Œéšä¾¿è§£å‹ç¼©åˆ°å“ªå„¿è¿è¡Œéƒ½å¯ã€‚<br/>
+ä¸»ç¨‹åºä¼šé‡Šæ”¾ä¸€ä¸ª.txtæ–‡ä»¶ç”¨æ¥é…ç½®å±è”½æ–‡ä»¶åˆ—è¡¨ï¼Œé‡Œé¢æœ‰è¯¦ç»†çš„æ³¨é‡Šï¼Œå¯ä»¥æ‰‹åŠ¨ä¿®æ”¹å“¦~<br/>
 ### The application.
 Current version: 1.0.1.9<br/>
 Special thanks: Shadow Power<br/>
